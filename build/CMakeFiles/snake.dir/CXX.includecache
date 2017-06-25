@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/moritz/Documents/new workspaces/C++/snake/src/game.cpp
+game.hpp
+/home/moritz/Documents/new workspaces/C++/snake/src/game.hpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+
+/home/moritz/Documents/new workspaces/C++/snake/src/game.hpp
+SDL2/SDL.h
+-
+vector
+-
+
+/home/moritz/Documents/new workspaces/C++/snake/src/main.cpp
+iostream
+-
+SDL2/SDL.h
+-
+game.hpp
+/home/moritz/Documents/new workspaces/C++/snake/src/game.hpp
+

@@ -1,0 +1,3 @@
+/home/moritz/Documents/new workspaces/C++/snake/build/CMakeFiles/edit_cache.dir
+/home/moritz/Documents/new workspaces/C++/snake/build/CMakeFiles/snake.dir
+/home/moritz/Documents/new workspaces/C++/snake/build/CMakeFiles/rebuild_cache.dir
